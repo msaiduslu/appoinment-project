@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/appointment-project/static/css/main.69eac22d.css",
+    "main.js": "/appointment-project/static/js/main.fa7bfe1a.js",
+    "index.html": "/appointment-project/index.html",
+    "main.69eac22d.css.map": "/appointment-project/static/css/main.69eac22d.css.map",
+    "main.fa7bfe1a.js.map": "/appointment-project/static/js/main.fa7bfe1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69eac22d.css",
+    "static/js/main.fa7bfe1a.js"
+  ]
+}

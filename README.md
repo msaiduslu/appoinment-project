@@ -39,6 +39,7 @@ SOLUTION
 
 ![Project 005 Snapshot](./Screenshot_1.png)
 ![Project 005 Snapshot](./Screenshot_2.png)
+![Project 005 Snapshot](./Screenshot_3.png)
 
 ## Objective
 

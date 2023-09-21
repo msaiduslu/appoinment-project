@@ -1,87 +1,56 @@
-# Project-005 : Appointment App (RP-05)
+![Project Snapshot](screengif.gif)
+
+[👉 click here to view the page](https://msaiduslu.github.io/appointment-project/)
+
+# Project: Appointment App
 
 ## Description
 
 Project aims to create a Hospital Appointment App.
 
-## Problem Statement
-
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
-
 ## Project Skeleton
 
 ```
-005 - Appointment App (folder)
+Appointment App (folder)
 |
-|----readme.md         # Given to the students (Definition of the project)
-SOLUTION
+|----readme.md
 ├── public
 │     └── index.html
 ├── src
 │    ├── components
-│    │       ├── HastaEkle.jsx
-│    │       │
-│    │       └── HastaListe.jsx
+│    │       ├── AddModal.jsx
+│    │       ├── AppointmentList.jsx
+│    │       └── Doctors.jsx
 │    │
-│    ├── helper
+│    ├── Pages
 │    │       └── Home.jsx
-│    │
+│    ├── helper
+│    │       └── data.jsx
 │    │
 │    ├── App.js
 │    ├── App.css
 │    ├── index.js
-│    └── index.css
+│
 ├── package.json
 └── yarn.lock
 ```
 
-## Expected Outcome
-
-![Project 005 Snapshot](./Screenshot_1.png)
-![Project 005 Snapshot](./Screenshot_2.png)
-![Project 005 Snapshot](./Screenshot_3.png)
-
-## Objective
-
-Build a Hospital Appointment App using ReactJS.
-
 ### At the end of the project, following topics are to be covered;
 
-- HTML
+- React Props Drilling
 
-- CSS
+- JS Iteration Method
 
-- JS
+- Import and Export
 
-- ReactJS
+- React Hooks
 
-### At the end of the project, students will be able to;
+- React Bootstrap
+
+- React Icons
+
+### At the end of the project, i will be able to;
 
 - improve coding skills within HTML & CSS & JS & ReactJS.
 
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
-
-## Steps to Solution
-
-- Step 1: Create React App using `npx create-react-app appointment-app`
-
-- Step 2 : Install `"react-icons"` package to your `package.json` for icons.
-
-- Step 3: Build Task Tracker App.
-
-- Step 4: You can use CSS frameworks like Bootstrap, Material UI.
-
-- Step 5: Push your application into your own public repo on Github
-
-- Step 6: Add project gif to your project and README.md file.
-
-## Notes
-
-- You can add additional functionalities to your app.
-
-## Additional Data
-
-- [Data.js](./helper/data.js)
-- [images](../public/img/)
-
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
